@@ -1,6 +1,6 @@
 
 const operaciones = ["Sumar", "Restar", "Multiplicar", "Calcular IMC"];
-let opcionSeleccionada;
+let opcionSeleccionada = 0;
 
 //ELECCION
 
